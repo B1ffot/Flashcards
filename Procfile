@@ -1,1 +1,1 @@
-web: gunicorn flash.wgi
+web: gunicorn flash.wsgi
